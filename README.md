@@ -1,0 +1,1 @@
+# Artificial-neural-networks-Project-for-predecting-the-energy-of-photovolatics-pannels
